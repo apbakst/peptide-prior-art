@@ -3,7 +3,7 @@ title: "Half-Life Extended Melanotan II Analogs via Non-Canonical Amino Acid Sub
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Melanotan II: Half-Life Extension via Non-Canonical Amino Acids
@@ -102,7 +102,9 @@ Ac-Nle-c[Asp-His-D-2-Nal-Arg-Trp-Lys]-NH₂
 - Fmoc-D-2-Nal-OH: commercially available
 - N-terminal Nle: Fmoc-Nle-OH, standard coupling, then Ac₂O capping
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any cyclic melanocortin receptor agonist peptide based on the MT-II scaffold (Ac-Nle-c[Asp-His-D-Phe-Arg-Trp-Lys]-NH₂) wherein one or more residues within or outside the cycle are substituted with non-canonical amino acids
 2. Any peptide of claim 1 wherein His is N-methylated
@@ -112,3 +114,5 @@ Ac-Nle-c[Asp-His-D-2-Nal-Arg-Trp-Lys]-NH₂
 6. Any combination of modifications from claims 2-5
 7. Pharmaceutical compositions and methods of use for pigmentation, sexual dysfunction, appetite regulation, photoprotection, or lipolysis
 8. All obvious variants and combinations
+
+**All rights reserved. No license granted.**

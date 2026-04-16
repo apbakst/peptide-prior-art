@@ -3,7 +3,7 @@ title: "Half-Life Extended Semax Analogs via Non-Canonical Amino Acid Substituti
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Semax: Half-Life Extension via Non-Canonical Amino Acids
@@ -101,7 +101,9 @@ A partial retro-inverso approach limited to the His³-Phe⁴ dipeptide segment (
 - Partial retro-inverso (Variant D): requires synthesis of Fmoc-D-Phe-D-His(Trt)-OH dipeptide building block in solution phase, then incorporation into SPPS
 - All variants amenable to standard Rink amide resin SPPS
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence MEHFPGP (Semax), MEHFPGP-PGP (extended Semax), or ACTH(4-10) or a variant thereof, wherein Met¹ is replaced with norleucine or other oxidation-resistant amino acid isosteres
 2. Any peptide of claim 1 wherein Phe⁴ is in D-configuration
@@ -112,3 +114,5 @@ A partial retro-inverso approach limited to the His³-Phe⁴ dipeptide segment (
 7. Pharmaceutical compositions for intranasal, subcutaneous, oral, or other routes of administration
 8. Methods of use for nootropic effects, neuroprotection, stroke recovery, BDNF modulation, cognitive enhancement, or anxiolytic applications
 9. All obvious variants and combinations
+
+**All rights reserved. No license granted.**

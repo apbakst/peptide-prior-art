@@ -3,7 +3,7 @@ title: "Half-Life Extended Cathelicidin LL-37 Analogs via Non-Canonical Amino Ac
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Cathelicidin LL-37: Half-Life Extension via Non-Canonical Amino Acids
@@ -130,7 +130,9 @@ Positions 8, 10, 18, 25 are selected for Orn substitution — these are internal
 ### Orn/Dab Variants
 - Fmoc-Orn(Boc)-OH and Fmoc-Dab(Boc)-OH: commercially available, standard coupling
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the full-length LL-37 sequence (LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES) or any fragment thereof (including FK-13, KR-12, GF-17, or other known active fragments), wherein one or more amino acid residues are substituted with non-canonical amino acids
 2. Any peptide of claim 1 wherein one or more Lys residues are replaced with ornithine (Orn), 2,4-diaminobutyric acid (Dab), 2,3-diaminopropionic acid (Dap), or N-methylated Lys
@@ -141,3 +143,5 @@ Positions 8, 10, 18, 25 are selected for Orn substitution — these are internal
 7. Pharmaceutical compositions for topical, injectable, inhaled, or oral administration
 8. Methods of use for antimicrobial therapy, anti-biofilm therapy, wound healing, immunomodulation, LPS neutralization, or anti-cancer applications
 9. All obvious variants and combinations including different staple positions, different ncAA combinations, and different fragment lengths
+
+**All rights reserved. No license granted.**

@@ -3,7 +3,7 @@ title: "Half-Life Extended DSIP (Delta Sleep-Inducing Peptide) Analogs via Non-C
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # DSIP (Delta Sleep-Inducing Peptide / Emideltide): Half-Life Extension via Non-Canonical Amino Acids
@@ -103,7 +103,9 @@ Cyclization via side chain-to-side chain lactam bridge between Asp⁵ and an add
 - Retro-inverso: standard SPPS with all D-amino acids; no special difficulties
 - Cyclic variant: requires orthogonal side chain protection strategy and on-resin or solution-phase cyclization
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence WAGGDASGE or a variant thereof, wherein the di-glycine motif (Gly³-Gly⁴) is replaced with α-aminoisobutyric acid (Aib), sarcosine, D-amino acids, β-amino acids, or other non-canonical amino acids
 2. Any peptide of claim 1 wherein Trp¹ is in the D-configuration
@@ -113,3 +115,5 @@ Cyclization via side chain-to-side chain lactam bridge between Asp⁵ and an add
 6. Any peptide of claims 1-5 with terminal capping modifications
 7. Pharmaceutical compositions and methods of use for sleep induction, sleep architecture normalization, stress protection, analgesia, or neuromodulation
 8. All obvious variants and combinations of the described modifications
+
+**All rights reserved. No license granted.**

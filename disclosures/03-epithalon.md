@@ -3,7 +3,7 @@ title: "Half-Life Extended Epithalon (AEDG) Analogs via Non-Canonical Amino Acid
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Epithalon (AEDG): Half-Life Extension via Non-Canonical Amino Acids
@@ -89,10 +89,14 @@ Ac-[NMe-Ala¹]-Glu²-[NMe-Asp³]-Gly⁴-NH₂
 - Retro-inverso variant: all Fmoc-D-Xaa-OH building blocks commercially available; sequence is loaded C→N as written (which is N→C in the retro orientation)
 - NMe variants: Fmoc-NMe-Ala-OH and Fmoc-NMe-Asp(OtBu)-OH available; coupling after NMe residues requires HATU with extended reaction times
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence AEDG or a variant thereof, wherein one or more amino acid residues are replaced with Aib, D-amino acids, β-amino acids, N-methylated amino acids, or any other non-canonical amino acid
 2. Any retro-inverso variant of the sequence AEDG
 3. Any peptide of claims 1-2 with terminal capping (acetyl, amide, or other protective groups)
 4. Any pharmaceutical composition or method of use of the above for telomerase activation, anti-aging, telomere elongation, or melatonin regulation
 5. All obvious variants and combinations of the described modifications
+
+**All rights reserved. No license granted.**

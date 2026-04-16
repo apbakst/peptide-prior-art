@@ -3,7 +3,7 @@ title: "Peptide-Based Ghrelin Mimetic with Non-Canonical Amino Acids as Alternat
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Ibutamoren (MK-677) Context & Peptide-Based Ghrelin Mimetic Alternatives
@@ -89,7 +89,9 @@ c[Lys¹-Ser²-Dap³(n-octanoyl)-Phe⁴-Leu⁵-Glu⁶] (lactam via Lys¹ ε-amine
 - **Aib/NMe residues:** standard double-coupling protocols
 - **Cyclic variant:** orthogonal protection (Alloc on Lys, 2-PhiPr on Glu side chains), selective deprotection and on-resin lactamization with PyBOP
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide-based ghrelin receptor (GHS-R1a) agonist comprising a sequence derived from ghrelin(1-5) through ghrelin(1-28), wherein the Ser³ octanoyl ester is replaced with a 2,3-diaminopropionic acid (Dap) octanoyl amide or any other hydrolysis-resistant acyl linkage
 2. Any peptide of claim 1 wherein one or more amino acid residues are replaced with D-amino acids, N-methylated amino acids, α-aminoisobutyric acid, or β-amino acids
@@ -98,3 +100,5 @@ c[Lys¹-Ser²-Dap³(n-octanoyl)-Phe⁴-Leu⁵-Glu⁶] (lactam via Lys¹ ε-amine
 5. Pharmaceutical compositions and methods of use for growth hormone secretion, appetite regulation, muscle wasting, osteoporosis, or metabolic disorders
 6. All obvious variants including different acyl chain lengths (C6-C12) on the Dap/Dab residue
 7. All obvious combinations of the described modifications
+
+**All rights reserved. No license granted.**

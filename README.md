@@ -2,11 +2,17 @@
 
 **Date of Public Disclosure: April 16, 2026**
 
-## Prior Art Dedication
+## Notice of Public Disclosure & Reservation of Rights
 
-This repository constitutes a **defensive publication** and **dedication to the public domain** of the peptide modifications described herein. All compositions, methods of synthesis, methods of use, and pharmaceutical formulations described in this repository are hereby dedicated to the public and are intended to serve as prior art against any future patent claims covering the same or obvious variations of these modifications.
+This repository constitutes a **public disclosure** of the peptide modifications described herein, establishing a verifiable date of invention and publication. By publishing these documents in a public GitHub repository with immutable git commit timestamps, the author establishes a verifiable date of public disclosure.
 
-By publishing these documents in a public GitHub repository with immutable git commit timestamps, the authors establish a verifiable date of public disclosure. Under 35 U.S.C. § 102 (United States), Article 54 EPC (Europe), and analogous provisions in other jurisdictions, this disclosure constitutes prior art effective as of the commit date.
+**All rights are reserved by the author.** The inventions, compositions, methods of synthesis, methods of use, and pharmaceutical formulations described in this repository are the intellectual property of the author. The author expressly reserves all rights to file patent applications on any and all subject matter disclosed herein, in accordance with the 1-year grace period provided under 35 U.S.C. § 102(b)(1)(A) (United States).
+
+This public disclosure serves as prior art effective as of the commit date against **third parties** under 35 U.S.C. § 102 (United States), Article 54 EPC (Europe), and analogous provisions in other jurisdictions.
+
+**No license, express or implied, is granted** to any party to make, use, sell, offer for sale, or import any composition or method described herein. Viewing this repository does not constitute a grant of rights.
+
+**Patent filing deadline: April 16, 2027** (1 year from date of first public disclosure under U.S. grace period).
 
 ## Scope
 
@@ -49,7 +55,7 @@ This repository discloses specific non-canonical amino acid (ncAA) modifications
 
 ## License
 
-This work is dedicated to the public domain under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/). No rights reserved.
+**All Rights Reserved.** Copyright 2026 Andrew Bakst. No part of this publication may be reproduced, distributed, or used to manufacture any composition described herein without the express written permission of the author. This repository is made publicly available solely for the purpose of establishing a date of disclosure and prior art.
 
 ## Authors
 

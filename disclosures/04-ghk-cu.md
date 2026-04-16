@@ -3,7 +3,7 @@ title: "Half-Life Extended GHK-Cu Analogs via Non-Canonical Amino Acid Substitut
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # GHK-Cu: Half-Life Extension via Non-Canonical Amino Acids
@@ -96,7 +96,9 @@ c[Gly¹-His²-Lys³-Glu⁴] · Cu²⁺
 - Side chain deprotection with TFA cocktail
 - Cu²⁺ loading post-cyclization
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any copper-binding peptide comprising the sequence GHK or a variant thereof, wherein one or more amino acid residues are replaced with non-canonical amino acids while preserving at least two of the three Cu²⁺ coordination sites (terminal amine, imidazole N, ε-amine)
 2. Any peptide of claim 1 wherein Gly is replaced with β-alanine
@@ -105,3 +107,5 @@ c[Gly¹-His²-Lys³-Glu⁴] · Cu²⁺
 5. Any pharmaceutical composition comprising the peptides of claims 1-4 with or without copper
 6. Any method of use for wound healing, hair growth, skin remodeling, anti-inflammation, or anti-aging
 7. All obvious variants and combinations
+
+**All rights reserved. No license granted.**

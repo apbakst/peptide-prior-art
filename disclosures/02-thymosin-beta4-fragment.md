@@ -3,7 +3,7 @@ title: "Half-Life Extended Thymosin β4 Fragment (LKKTETQ) Analogs via Non-Canon
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Thymosin β4 Fragment (LKKTETQ): Half-Life Extension via Non-Canonical Amino Acids
@@ -92,9 +92,9 @@ Ac-Leu¹-Lys²-[β³-hLys³]-Thr⁴-Glu⁵-Thr⁶-Gln⁷-NH₂
 - Fmoc-β³-hLys(Boc)-OH: commercially available from specialty suppliers (e.g., Bachem, ChemPep)
 - Cleavage: TFA/TIS/H₂O (95:2.5:2.5)
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
 
-The following are explicitly placed in the public domain:
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence LKKTETQ or a conservative variant thereof, wherein one or more amino acid residues are replaced with their D-enantiomer, N-methylated form, α-aminoisobutyric acid, or β-amino acid analog
 2. Any peptide of claim 1 wherein the N-terminus is capped (acetyl, formyl, or other) and/or the C-terminus is amidated
@@ -102,3 +102,5 @@ The following are explicitly placed in the public domain:
 4. Any pharmaceutical composition comprising a peptide of claims 1-3
 5. Any method of use of the peptides of claims 1-3 for wound healing, anti-inflammation, tissue repair, hair follicle neogenesis, or cardiac repair
 6. All obvious variants including different combinations of the described modifications
+
+**All rights reserved. No license granted.**

@@ -3,7 +3,7 @@ title: "Half-Life Extended KPV Analogs via Non-Canonical Amino Acid Substitution
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # KPV: Half-Life Extension via Non-Canonical Amino Acids
@@ -104,10 +104,14 @@ Ac-[β³-hLys¹]-Pro²-[β³-hVal³]-NH₂
 - Retro-inverso: Fmoc-D-Val-OH, Fmoc-D-Pro-OH, Fmoc-D-Lys(Boc)-OH — all standard
 - Scale: tripeptides can be economically produced at gram-kilogram scale by solution-phase synthesis
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence KPV or a variant thereof, wherein one or more amino acid residues are replaced with their D-enantiomer, N-methylated form, α,α-disubstituted analog, or β-amino acid analog
 2. Any retro-inverso variant of KPV
 3. Any peptide of claims 1-2 with terminal capping modifications (acetyl, amide, or other)
 4. Pharmaceutical compositions and methods of use for anti-inflammation, NF-κB inhibition, inflammatory bowel disease, colitis, antimicrobial applications, or wound healing
 5. All obvious variants and combinations including different non-canonical amino acid types at each position
+
+**All rights reserved. No license granted.**

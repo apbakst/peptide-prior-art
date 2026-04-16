@@ -3,7 +3,7 @@ title: "Half-Life Extended MOTS-c Analogs via Non-Canonical Amino Acid Substitut
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # MOTS-c: Half-Life Extension via Non-Canonical Amino Acids
@@ -97,7 +97,9 @@ Where S₅ = (S)-2-(4'-pentenyl)alanine. Positions 5 and 9 (i, i+4 spacing) are 
 - NMe-amino acids: Fmoc-NMe-Arg(Pbf)-OH and Fmoc-NMe-Lys(Boc)-OH require double coupling
 - Stapled variant: requires on-resin ring-closing metathesis with Grubbs 1st generation catalyst in DCE at 50°C after full chain assembly but before global deprotection/cleavage
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any peptide comprising the sequence MRWQEMGYIFYPRKLR or a variant thereof, wherein one or both methionine residues are replaced with norleucine or other oxidation-resistant isosteres
 2. Any peptide of claim 1 wherein one or more Arg or Lys residues are modified with D-configuration or N-methylation to resist trypsin
@@ -106,3 +108,5 @@ Where S₅ = (S)-2-(4'-pentenyl)alanine. Positions 5 and 9 (i, i+4 spacing) are 
 5. Any combination of modifications from claims 1-4 with terminal capping
 6. Pharmaceutical compositions and methods of use for metabolic regulation, insulin sensitization, obesity, exercise enhancement, or geroprotection
 7. All obvious variants and combinations
+
+**All rights reserved. No license granted.**

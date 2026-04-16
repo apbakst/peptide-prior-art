@@ -3,7 +3,7 @@ title: "Half-Life Extended Dihexa Analogs via Non-Canonical Amino Acid Substitut
 date: 2026-04-16
 type: Defensive Publication / Prior Art Disclosure
 author: Andrew Bakst (bakst@hairdao.xyz)
-status: Public Domain (CC0 1.0)
+status: All Rights Reserved — Copyright 2026 Andrew Bakst
 ---
 
 # Dihexa (N-hexanoyl-Tyr-Ile--(6) aminohexanoic amide): Half-Life Extension via Non-Canonical Amino Acids
@@ -89,7 +89,9 @@ N-hexanoyl-[NMe-Tyr¹]-[D-Ile²]-ψ[CH₂NH]-[NMe-His³]-Pro⁴-[D-Phe⁵]-NH₂
 - D-Ile: Fmoc-D-Ile-OH, standard coupling
 - N-hexanoyl cap: hexanoic acid activated with HATU, coupled to N-terminal amine
 
-## 4. Claims Dedicated to Public Domain
+## 4. Disclosed Claims (Patent Rights Reserved)
+
+The following claims are publicly disclosed to establish a date of invention. All patent rights are reserved by the author under the 1-year grace period of 35 U.S.C. § 102(b)(1)(A):
 
 1. Any analog of Dihexa (N-hexanoyl-Tyr-Ile-ψ[CH₂NH]-His-Pro-Phe or a variant thereof) wherein one or more residues are substituted with N-methylated, D-configured, or α,α-disubstituted amino acids
 2. Any peptide of claim 1 wherein the C-terminal Phe is in D-configuration
@@ -97,3 +99,5 @@ N-hexanoyl-[NMe-Tyr¹]-[D-Ile²]-ψ[CH₂NH]-[NMe-His³]-Pro⁴-[D-Phe⁵]-NH₂
 4. Any peptide of claim 1 with additional non-canonical amino acid insertions between existing residues
 5. Pharmaceutical compositions and methods of use for cognitive enhancement, synaptogenesis, HGF/c-Met pathway modulation, or neurodegenerative disease
 6. All obvious variants and combinations
+
+**All rights reserved. No license granted.**
